@@ -1,0 +1,1105 @@
+Sector,Funding_Year,Funding_Month,Funding_Amount( Millions)
+enterprise software,2023,Jan,1111
+enterprise software,2023,Feb,983
+enterprise software,2023,Mar,2480
+enterprise software,2023,Apr,4632
+enterprise software,2023,May,1904
+enterprise software,2023,Jun,604
+enterprise software,2023,Jul,2194
+enterprise software,2023,Aug,560
+enterprise software,2023,Sep,3656
+enterprise software,2023,Oct,2709
+enterprise software,2023,Nov,4747
+enterprise software,2023,Dec,1554
+enterprise software,2024,Jan,700
+enterprise software,2024,Feb,4152
+enterprise software,2024,Mar,4692
+enterprise software,2024,Apr,1185
+enterprise software,2024,May,2177
+enterprise software,2024,Jun,1109
+enterprise software,2024,Jul,3657
+enterprise software,2024,Aug,1706
+enterprise software,2024,Sep,4978
+enterprise software,2024,Oct,4780
+enterprise software,2024,Nov,547
+enterprise software,2024,Dec,2287
+education,2023,Jan,2424
+education,2023,Feb,1580
+education,2023,Mar,3561
+education,2023,Apr,926
+education,2023,May,4896
+education,2023,Jun,3362
+education,2023,Jul,1965
+education,2023,Aug,1678
+education,2023,Sep,4904
+education,2023,Oct,2236
+education,2023,Nov,515
+education,2023,Dec,3868
+education,2024,Jan,3762
+education,2024,Feb,3906
+education,2024,Mar,179
+education,2024,Apr,4959
+education,2024,May,1322
+education,2024,Jun,4097
+education,2024,Jul,711
+education,2024,Aug,2379
+education,2024,Sep,192
+education,2024,Oct,3196
+education,2024,Nov,3660
+education,2024,Dec,1665
+fashion tech,2023,Jan,2866
+fashion tech,2023,Feb,4521
+fashion tech,2023,Mar,4182
+fashion tech,2023,Apr,1499
+fashion tech,2023,May,749
+fashion tech,2023,Jun,2231
+fashion tech,2023,Jul,1123
+fashion tech,2023,Aug,3736
+fashion tech,2023,Sep,2958
+fashion tech,2023,Oct,1901
+fashion tech,2023,Nov,4366
+fashion tech,2023,Dec,2304
+fashion tech,2024,Jan,725
+fashion tech,2024,Feb,1452
+fashion tech,2024,Mar,506
+fashion tech,2024,Apr,3446
+fashion tech,2024,May,4811
+fashion tech,2024,Jun,2377
+fashion tech,2024,Jul,2198
+fashion tech,2024,Aug,4301
+fashion tech,2024,Sep,3290
+fashion tech,2024,Oct,3558
+fashion tech,2024,Nov,4253
+fashion tech,2024,Dec,3808
+drone tech,2023,Jan,4646
+drone tech,2023,Feb,1938
+drone tech,2023,Mar,2021
+drone tech,2023,Apr,446
+drone tech,2023,May,2436
+drone tech,2023,Jun,3740
+drone tech,2023,Jul,2935
+drone tech,2023,Aug,3963
+drone tech,2023,Sep,128
+drone tech,2023,Oct,1214
+drone tech,2023,Nov,1068
+drone tech,2023,Dec,532
+drone tech,2024,Jan,1842
+drone tech,2024,Feb,4860
+drone tech,2024,Mar,4254
+drone tech,2024,Apr,3514
+drone tech,2024,May,338
+drone tech,2024,Jun,3239
+drone tech,2024,Jul,4431
+drone tech,2024,Aug,3880
+drone tech,2024,Sep,3047
+drone tech,2024,Oct,1334
+drone tech,2024,Nov,2882
+drone tech,2024,Dec,804
+sports,2023,Jan,2024
+sports,2023,Feb,4648
+sports,2023,Mar,2888
+sports,2023,Apr,3107
+sports,2023,May,3265
+sports,2023,Jun,4663
+sports,2023,Jul,4402
+sports,2023,Aug,1861
+sports,2023,Sep,154
+sports,2023,Oct,737
+sports,2023,Nov,3783
+sports,2023,Dec,721
+sports,2024,Jan,1153
+sports,2024,Feb,2988
+sports,2024,Mar,4410
+sports,2024,Apr,1008
+sports,2024,May,1355
+sports,2024,Jun,667
+sports,2024,Jul,4983
+sports,2024,Aug,4629
+sports,2024,Sep,637
+sports,2024,Oct,4387
+sports,2024,Nov,1533
+sports,2024,Dec,2615
+robotics,2023,Jan,1085
+robotics,2023,Feb,3269
+robotics,2023,Mar,2031
+robotics,2023,Apr,330
+robotics,2023,May,2735
+robotics,2023,Jun,3132
+robotics,2023,Jul,469
+robotics,2023,Aug,3416
+robotics,2023,Sep,4738
+robotics,2023,Oct,3962
+robotics,2023,Nov,467
+robotics,2023,Dec,486
+robotics,2024,Jan,4343
+robotics,2024,Feb,2167
+robotics,2024,Mar,3812
+robotics,2024,Apr,4980
+robotics,2024,May,1523
+robotics,2024,Jun,4836
+robotics,2024,Jul,3796
+robotics,2024,Aug,1161
+robotics,2024,Sep,2780
+robotics,2024,Oct,3200
+robotics,2024,Nov,829
+robotics,2024,Dec,1953
+marketing & ad tech,2023,Jan,4910
+marketing & ad tech,2023,Feb,1816
+marketing & ad tech,2023,Mar,352
+marketing & ad tech,2023,Apr,2324
+marketing & ad tech,2023,May,4600
+marketing & ad tech,2023,Jun,1628
+marketing & ad tech,2023,Jul,4805
+marketing & ad tech,2023,Aug,4394
+marketing & ad tech,2023,Sep,2034
+marketing & ad tech,2023,Oct,3508
+marketing & ad tech,2023,Nov,4328
+marketing & ad tech,2023,Dec,176
+marketing & ad tech,2024,Jan,747
+marketing & ad tech,2024,Feb,1759
+marketing & ad tech,2024,Mar,2447
+marketing & ad tech,2024,Apr,3466
+marketing & ad tech,2024,May,1251
+marketing & ad tech,2024,Jun,2672
+marketing & ad tech,2024,Jul,3600
+marketing & ad tech,2024,Aug,3303
+marketing & ad tech,2024,Sep,4120
+marketing & ad tech,2024,Oct,2295
+marketing & ad tech,2024,Nov,2137
+marketing & ad tech,2024,Dec,3355
+construction tech,2023,Jan,608
+construction tech,2023,Feb,1680
+construction tech,2023,Mar,3250
+construction tech,2023,Apr,999
+construction tech,2023,May,3065
+construction tech,2023,Jun,2039
+construction tech,2023,Jul,3402
+construction tech,2023,Aug,4634
+construction tech,2023,Sep,3521
+construction tech,2023,Oct,1574
+construction tech,2023,Nov,1313
+construction tech,2023,Dec,3990
+construction tech,2024,Jan,1748
+construction tech,2024,Feb,3824
+construction tech,2024,Mar,4799
+construction tech,2024,Apr,4192
+construction tech,2024,May,3595
+construction tech,2024,Jun,374
+construction tech,2024,Jul,2135
+construction tech,2024,Aug,4250
+construction tech,2024,Sep,1488
+construction tech,2024,Oct,3463
+construction tech,2024,Nov,4096
+construction tech,2024,Dec,329
+geographic information systems,2023,Jan,658
+geographic information systems,2023,Feb,1461
+geographic information systems,2023,Mar,178
+geographic information systems,2023,Apr,1213
+geographic information systems,2023,May,2583
+geographic information systems,2023,Jun,4495
+geographic information systems,2023,Jul,2011
+geographic information systems,2023,Aug,708
+geographic information systems,2023,Sep,1271
+geographic information systems,2023,Oct,192
+geographic information systems,2023,Nov,1656
+geographic information systems,2023,Dec,4534
+geographic information systems,2024,Jan,645
+geographic information systems,2024,Feb,3328
+geographic information systems,2024,Mar,4211
+geographic information systems,2024,Apr,3332
+geographic information systems,2024,May,3034
+geographic information systems,2024,Jun,1513
+geographic information systems,2024,Jul,2420
+geographic information systems,2024,Aug,1776
+geographic information systems,2024,Sep,3544
+geographic information systems,2024,Oct,779
+geographic information systems,2024,Nov,4207
+geographic information systems,2024,Dec,3182
+nanotechnology,2023,Jan,4235
+nanotechnology,2023,Feb,2492
+nanotechnology,2023,Mar,3489
+nanotechnology,2023,Apr,4772
+nanotechnology,2023,May,2842
+nanotechnology,2023,Jun,3594
+nanotechnology,2023,Jul,452
+nanotechnology,2023,Aug,1006
+nanotechnology,2023,Sep,2118
+nanotechnology,2023,Oct,3698
+nanotechnology,2023,Nov,4463
+nanotechnology,2023,Dec,1641
+nanotechnology,2024,Jan,3040
+nanotechnology,2024,Feb,793
+nanotechnology,2024,Mar,1099
+nanotechnology,2024,Apr,3481
+nanotechnology,2024,May,407
+nanotechnology,2024,Jun,2628
+nanotechnology,2024,Jul,1337
+nanotechnology,2024,Aug,4958
+nanotechnology,2024,Sep,2227
+nanotechnology,2024,Oct,2931
+nanotechnology,2024,Nov,1911
+nanotechnology,2024,Dec,2367
+retail,2023,Jan,2457
+retail,2023,Feb,1523
+retail,2023,Mar,4130
+retail,2023,Apr,1545
+retail,2023,May,2333
+retail,2023,Jun,2847
+retail,2023,Jul,4457
+retail,2023,Aug,2489
+retail,2023,Sep,3728
+retail,2023,Oct,2803
+retail,2023,Nov,2683
+retail,2023,Dec,942
+retail,2024,Jan,3326
+retail,2024,Feb,4100
+retail,2024,Mar,4632
+retail,2024,Apr,3178
+retail,2024,May,2713
+retail,2024,Jun,4489
+retail,2024,Jul,4004
+retail,2024,Aug,2719
+retail,2024,Sep,2266
+retail,2024,Oct,4538
+retail,2024,Nov,372
+retail,2024,Dec,1908
+sustainability in financial services,2023,Jan,1141
+sustainability in financial services,2023,Feb,1692
+sustainability in financial services,2023,Mar,3529
+sustainability in financial services,2023,Apr,444
+sustainability in financial services,2023,May,1770
+sustainability in financial services,2023,Jun,607
+sustainability in financial services,2023,Jul,4383
+sustainability in financial services,2023,Aug,3886
+sustainability in financial services,2023,Sep,1992
+sustainability in financial services,2023,Oct,156
+sustainability in financial services,2023,Nov,4120
+sustainability in financial services,2023,Dec,4237
+sustainability in financial services,2024,Jan,3677
+sustainability in financial services,2024,Feb,1721
+sustainability in financial services,2024,Mar,380
+sustainability in financial services,2024,Apr,3163
+sustainability in financial services,2024,May,3309
+sustainability in financial services,2024,Jun,3346
+sustainability in financial services,2024,Jul,1131
+sustainability in financial services,2024,Aug,3275
+sustainability in financial services,2024,Sep,180
+sustainability in financial services,2024,Oct,1216
+sustainability in financial services,2024,Nov,1262
+sustainability in financial services,2024,Dec,3672
+blockchain infrastructure,2023,Jan,1579
+blockchain infrastructure,2023,Feb,4013
+blockchain infrastructure,2023,Mar,4096
+blockchain infrastructure,2023,Apr,1246
+blockchain infrastructure,2023,May,2469
+blockchain infrastructure,2023,Jun,1689
+blockchain infrastructure,2023,Jul,3261
+blockchain infrastructure,2023,Aug,1198
+blockchain infrastructure,2023,Sep,4673
+blockchain infrastructure,2023,Oct,3760
+blockchain infrastructure,2023,Nov,4362
+blockchain infrastructure,2023,Dec,2607
+blockchain infrastructure,2024,Jan,3553
+blockchain infrastructure,2024,Feb,4236
+blockchain infrastructure,2024,Mar,1144
+blockchain infrastructure,2024,Apr,3162
+blockchain infrastructure,2024,May,2340
+blockchain infrastructure,2024,Jun,839
+blockchain infrastructure,2024,Jul,1859
+blockchain infrastructure,2024,Aug,852
+blockchain infrastructure,2024,Sep,486
+blockchain infrastructure,2024,Oct,1202
+blockchain infrastructure,2024,Nov,4020
+blockchain infrastructure,2024,Dec,853
+enterprise infrastructure,2023,Jan,446
+enterprise infrastructure,2023,Feb,3065
+enterprise infrastructure,2023,Mar,4985
+enterprise infrastructure,2023,Apr,4851
+enterprise infrastructure,2023,May,3829
+enterprise infrastructure,2023,Jun,2039
+enterprise infrastructure,2023,Jul,127
+enterprise infrastructure,2023,Aug,392
+enterprise infrastructure,2023,Sep,2354
+enterprise infrastructure,2023,Oct,3139
+enterprise infrastructure,2023,Nov,4053
+enterprise infrastructure,2023,Dec,594
+enterprise infrastructure,2024,Jan,696
+enterprise infrastructure,2024,Feb,3743
+enterprise infrastructure,2024,Mar,3926
+enterprise infrastructure,2024,Apr,1743
+enterprise infrastructure,2024,May,677
+enterprise infrastructure,2024,Jun,3933
+enterprise infrastructure,2024,Jul,3955
+enterprise infrastructure,2024,Aug,387
+enterprise infrastructure,2024,Sep,3360
+enterprise infrastructure,2024,Oct,3751
+enterprise infrastructure,2024,Nov,4747
+enterprise infrastructure,2024,Dec,170
+generativeai,2023,Jan,1640
+generativeai,2023,Feb,3373
+generativeai,2023,Mar,981
+generativeai,2023,Apr,999
+generativeai,2023,May,1999
+generativeai,2023,Jun,3152
+generativeai,2023,Jul,1518
+generativeai,2023,Aug,2044
+generativeai,2023,Sep,954
+generativeai,2023,Oct,3854
+generativeai,2023,Nov,3420
+generativeai,2023,Dec,2038
+generativeai,2024,Jan,4579
+generativeai,2024,Feb,609
+generativeai,2024,Mar,1234
+generativeai,2024,Apr,4473
+generativeai,2024,May,4749
+generativeai,2024,Jun,510
+generativeai,2024,Jul,3791
+generativeai,2024,Aug,4342
+generativeai,2024,Sep,1689
+generativeai,2024,Oct,979
+generativeai,2024,Nov,2253
+generativeai,2024,Dec,2356
+legal,2023,Jan,2887
+legal,2023,Feb,4472
+legal,2023,Mar,4498
+legal,2023,Apr,282
+legal,2023,May,2608
+legal,2023,Jun,4838
+legal,2023,Jul,820
+legal,2023,Aug,4623
+legal,2023,Sep,178
+legal,2023,Oct,2336
+legal,2023,Nov,1002
+legal,2023,Dec,2844
+legal,2024,Jan,3186
+legal,2024,Feb,3477
+legal,2024,Mar,3970
+legal,2024,Apr,4404
+legal,2024,May,2554
+legal,2024,Jun,3398
+legal,2024,Jul,3148
+legal,2024,Aug,935
+legal,2024,Sep,2646
+legal,2024,Oct,961
+legal,2024,Nov,2418
+legal,2024,Dec,1840
+iot,2023,Jan,2858
+iot,2023,Feb,3327
+iot,2023,Mar,3307
+iot,2023,Apr,4312
+iot,2023,May,588
+iot,2023,Jun,4181
+iot,2023,Jul,1312
+iot,2023,Aug,2811
+iot,2023,Sep,647
+iot,2023,Oct,1466
+iot,2023,Nov,4451
+iot,2023,Dec,3732
+iot,2024,Jan,2020
+iot,2024,Feb,1500
+iot,2024,Mar,4346
+iot,2024,Apr,4083
+iot,2024,May,3224
+iot,2024,Jun,475
+iot,2024,Jul,1996
+iot,2024,Aug,3910
+iot,2024,Sep,2168
+iot,2024,Oct,4957
+iot,2024,Nov,4063
+iot,2024,Dec,3039
+beauty tech,2023,Jan,3206
+beauty tech,2023,Feb,1039
+beauty tech,2023,Mar,4068
+beauty tech,2023,Apr,3551
+beauty tech,2023,May,3833
+beauty tech,2023,Jun,1436
+beauty tech,2023,Jul,4143
+beauty tech,2023,Aug,3836
+beauty tech,2023,Sep,1314
+beauty tech,2023,Oct,3678
+beauty tech,2023,Nov,4867
+beauty tech,2023,Dec,775
+beauty tech,2024,Jan,4429
+beauty tech,2024,Feb,4531
+beauty tech,2024,Mar,2148
+beauty tech,2024,Apr,1302
+beauty tech,2024,May,660
+beauty tech,2024,Jun,4079
+beauty tech,2024,Jul,682
+beauty tech,2024,Aug,465
+beauty tech,2024,Sep,2247
+beauty tech,2024,Oct,3282
+beauty tech,2024,Nov,1810
+beauty tech,2024,Dec,3968
+sustainability tech,2023,Jan,3292
+sustainability tech,2023,Feb,285
+sustainability tech,2023,Mar,2461
+sustainability tech,2023,Apr,310
+sustainability tech,2023,May,3121
+sustainability tech,2023,Jun,1770
+sustainability tech,2023,Jul,4450
+sustainability tech,2023,Aug,2949
+sustainability tech,2023,Sep,2544
+sustainability tech,2023,Oct,1833
+sustainability tech,2023,Nov,2414
+sustainability tech,2023,Dec,4177
+sustainability tech,2024,Jan,623
+sustainability tech,2024,Feb,3703
+sustainability tech,2024,Mar,3533
+sustainability tech,2024,Apr,4824
+sustainability tech,2024,May,2443
+sustainability tech,2024,Jun,3465
+sustainability tech,2024,Jul,1292
+sustainability tech,2024,Aug,2239
+sustainability tech,2024,Sep,2086
+sustainability tech,2024,Oct,3099
+sustainability tech,2024,Nov,4462
+sustainability tech,2024,Dec,1097
+space tech,2023,Jan,1649
+space tech,2023,Feb,2590
+space tech,2023,Mar,2375
+space tech,2023,Apr,3044
+space tech,2023,May,1347
+space tech,2023,Jun,2488
+space tech,2023,Jul,2642
+space tech,2023,Aug,531
+space tech,2023,Sep,2869
+space tech,2023,Oct,4655
+space tech,2023,Nov,606
+space tech,2023,Dec,3452
+space tech,2024,Jan,2047
+space tech,2024,Feb,3199
+space tech,2024,Mar,3970
+space tech,2024,Apr,4478
+space tech,2024,May,4851
+space tech,2024,Jun,1285
+space tech,2024,Jul,1153
+space tech,2024,Aug,1296
+space tech,2024,Sep,2051
+space tech,2024,Oct,2108
+space tech,2024,Nov,440
+space tech,2024,Dec,2623
+quantum computing,2023,Jan,4954
+quantum computing,2023,Feb,1295
+quantum computing,2023,Mar,3300
+quantum computing,2023,Apr,243
+quantum computing,2023,May,2236
+quantum computing,2023,Jun,3506
+quantum computing,2023,Jul,3890
+quantum computing,2023,Aug,4966
+quantum computing,2023,Sep,3636
+quantum computing,2023,Oct,4789
+quantum computing,2023,Nov,3671
+quantum computing,2023,Dec,4811
+quantum computing,2024,Jan,4676
+quantum computing,2024,Feb,3583
+quantum computing,2024,Mar,459
+quantum computing,2024,Apr,3299
+quantum computing,2024,May,4409
+quantum computing,2024,Jun,1774
+quantum computing,2024,Jul,3593
+quantum computing,2024,Aug,3723
+quantum computing,2024,Sep,600
+quantum computing,2024,Oct,4728
+quantum computing,2024,Nov,4196
+quantum computing,2024,Dec,2641
+ai infrastructure,2023,Jan,3058
+ai infrastructure,2023,Feb,4957
+ai infrastructure,2023,Mar,1574
+ai infrastructure,2023,Apr,1242
+ai infrastructure,2023,May,1352
+ai infrastructure,2023,Jun,1021
+ai infrastructure,2023,Jul,2368
+ai infrastructure,2023,Aug,285
+ai infrastructure,2023,Sep,4096
+ai infrastructure,2023,Oct,1238
+ai infrastructure,2023,Nov,2581
+ai infrastructure,2023,Dec,507
+ai infrastructure,2024,Jan,1594
+ai infrastructure,2024,Feb,4521
+ai infrastructure,2024,Mar,565
+ai infrastructure,2024,Apr,270
+ai infrastructure,2024,May,1095
+ai infrastructure,2024,Jun,1361
+ai infrastructure,2024,Jul,2261
+ai infrastructure,2024,Aug,1502
+ai infrastructure,2024,Sep,4030
+ai infrastructure,2024,Oct,2674
+ai infrastructure,2024,Nov,3426
+ai infrastructure,2024,Dec,3976
+telecom,2023,Jan,3472
+telecom,2023,Feb,4545
+telecom,2023,Mar,2458
+telecom,2023,Apr,3770
+telecom,2023,May,162
+telecom,2023,Jun,1248
+telecom,2023,Jul,4755
+telecom,2023,Aug,3068
+telecom,2023,Sep,2406
+telecom,2023,Oct,1026
+telecom,2023,Nov,1837
+telecom,2023,Dec,931
+telecom,2024,Jan,426
+telecom,2024,Feb,3703
+telecom,2024,Mar,4594
+telecom,2024,Apr,2449
+telecom,2024,May,3844
+telecom,2024,Jun,4656
+telecom,2024,Jul,2818
+telecom,2024,Aug,4581
+telecom,2024,Sep,4357
+telecom,2024,Oct,2975
+telecom,2024,Nov,430
+telecom,2024,Dec,1728
+energy,2023,Jan,584
+energy,2023,Feb,4730
+energy,2023,Mar,4357
+energy,2023,Apr,541
+energy,2023,May,3299
+energy,2023,Jun,4462
+energy,2023,Jul,2965
+energy,2023,Aug,1692
+energy,2023,Sep,4996
+energy,2023,Oct,1892
+energy,2023,Nov,4934
+energy,2023,Dec,1542
+energy,2024,Jan,366
+energy,2024,Feb,1544
+energy,2024,Mar,1918
+energy,2024,Apr,4003
+energy,2024,May,707
+energy,2024,Jun,3276
+energy,2024,Jul,3099
+energy,2024,Aug,345
+energy,2024,Sep,3167
+energy,2024,Oct,1776
+energy,2024,Nov,4872
+energy,2024,Dec,3599
+transportation,2023,Jan,287
+transportation,2023,Feb,625
+transportation,2023,Mar,4625
+transportation,2023,Apr,4615
+transportation,2023,May,2870
+transportation,2023,Jun,1119
+transportation,2023,Jul,4637
+transportation,2023,Aug,2769
+transportation,2023,Sep,2323
+transportation,2023,Oct,831
+transportation,2023,Nov,3190
+transportation,2023,Dec,1163
+transportation,2024,Jan,2302
+transportation,2024,Feb,4752
+transportation,2024,Mar,2902
+transportation,2024,Apr,4281
+transportation,2024,May,2822
+transportation,2024,Jun,3100
+transportation,2024,Jul,2617
+transportation,2024,Aug,3167
+transportation,2024,Sep,1558
+transportation,2024,Oct,1425
+transportation,2024,Nov,4139
+transportation,2024,Dec,4048
+cyber security,2023,Jan,4531
+cyber security,2023,Feb,4512
+cyber security,2023,Mar,3737
+cyber security,2023,Apr,872
+cyber security,2023,May,4569
+cyber security,2023,Jun,4140
+cyber security,2023,Jul,3603
+cyber security,2023,Aug,3205
+cyber security,2023,Sep,421
+cyber security,2023,Oct,1063
+cyber security,2023,Nov,2930
+cyber security,2023,Dec,988
+cyber security,2024,Jan,4112
+cyber security,2024,Feb,2694
+cyber security,2024,Mar,741
+cyber security,2024,Apr,370
+cyber security,2024,May,311
+cyber security,2024,Jun,760
+cyber security,2024,Jul,906
+cyber security,2024,Aug,4261
+cyber security,2024,Sep,4166
+cyber security,2024,Oct,4041
+cyber security,2024,Nov,4457
+cyber security,2024,Dec,4027
+virtual reality,2023,Jan,444
+virtual reality,2023,Feb,2591
+virtual reality,2023,Mar,4860
+virtual reality,2023,Apr,1710
+virtual reality,2023,May,4608
+virtual reality,2023,Jun,3150
+virtual reality,2023,Jul,3375
+virtual reality,2023,Aug,624
+virtual reality,2023,Sep,731
+virtual reality,2023,Oct,441
+virtual reality,2023,Nov,1244
+virtual reality,2023,Dec,4195
+virtual reality,2024,Jan,2839
+virtual reality,2024,Feb,1735
+virtual reality,2024,Mar,4973
+virtual reality,2024,Apr,2480
+virtual reality,2024,May,902
+virtual reality,2024,Jun,353
+virtual reality,2024,Jul,4877
+virtual reality,2024,Aug,3607
+virtual reality,2024,Sep,2986
+virtual reality,2024,Oct,1337
+virtual reality,2024,Nov,3037
+virtual reality,2024,Dec,4562
+advanced materials,2023,Jan,598
+advanced materials,2023,Feb,1586
+advanced materials,2023,Mar,3148
+advanced materials,2023,Apr,2998
+advanced materials,2023,May,189
+advanced materials,2023,Jun,657
+advanced materials,2023,Jul,1741
+advanced materials,2023,Aug,1525
+advanced materials,2023,Sep,2787
+advanced materials,2023,Oct,1953
+advanced materials,2023,Nov,1804
+advanced materials,2023,Dec,4919
+advanced materials,2024,Jan,843
+advanced materials,2024,Feb,504
+advanced materials,2024,Mar,1263
+advanced materials,2024,Apr,4743
+advanced materials,2024,May,2089
+advanced materials,2024,Jun,1413
+advanced materials,2024,Jul,2090
+advanced materials,2024,Aug,2963
+advanced materials,2024,Sep,4421
+advanced materials,2024,Oct,2644
+advanced materials,2024,Nov,4215
+advanced materials,2024,Dec,4124
+healthcare,2023,Jan,395
+healthcare,2023,Feb,4667
+healthcare,2023,Mar,519
+healthcare,2023,Apr,4284
+healthcare,2023,May,4093
+healthcare,2023,Jun,400
+healthcare,2023,Jul,3018
+healthcare,2023,Aug,1816
+healthcare,2023,Sep,3759
+healthcare,2023,Oct,1073
+healthcare,2023,Nov,3732
+healthcare,2023,Dec,1358
+healthcare,2024,Jan,281
+healthcare,2024,Feb,2770
+healthcare,2024,Mar,683
+healthcare,2024,Apr,3740
+healthcare,2024,May,3369
+healthcare,2024,Jun,1103
+healthcare,2024,Jul,329
+healthcare,2024,Aug,2412
+healthcare,2024,Sep,2527
+healthcare,2024,Oct,3046
+healthcare,2024,Nov,1852
+healthcare,2024,Dec,2026
+f&b,2023,Jan,2670
+f&b,2023,Feb,2877
+f&b,2023,Mar,741
+f&b,2023,Apr,1687
+f&b,2023,May,580
+f&b,2023,Jun,4472
+f&b,2023,Jul,184
+f&b,2023,Aug,3188
+f&b,2023,Sep,335
+f&b,2023,Oct,2167
+f&b,2023,Nov,357
+f&b,2023,Dec,498
+f&b,2024,Jan,1253
+f&b,2024,Feb,359
+f&b,2024,Mar,2153
+f&b,2024,Apr,3525
+f&b,2024,May,3475
+f&b,2024,Jun,4033
+f&b,2024,Jul,1497
+f&b,2024,Aug,2962
+f&b,2024,Sep,3594
+f&b,2024,Oct,3188
+f&b,2024,Nov,262
+f&b,2024,Dec,1593
+hospitality,2023,Jan,2387
+hospitality,2023,Feb,337
+hospitality,2023,Mar,1413
+hospitality,2023,Apr,2336
+hospitality,2023,May,4346
+hospitality,2023,Jun,1056
+hospitality,2023,Jul,149
+hospitality,2023,Aug,1408
+hospitality,2023,Sep,3416
+hospitality,2023,Oct,2061
+hospitality,2023,Nov,1945
+hospitality,2023,Dec,2078
+hospitality,2024,Jan,2911
+hospitality,2024,Feb,1538
+hospitality,2024,Mar,1276
+hospitality,2024,Apr,4295
+hospitality,2024,May,1451
+hospitality,2024,Jun,2664
+hospitality,2024,Jul,4507
+hospitality,2024,Aug,4504
+hospitality,2024,Sep,2919
+hospitality,2024,Oct,4823
+hospitality,2024,Nov,2609
+hospitality,2024,Dec,2573
+mining,2023,Jan,693
+mining,2023,Feb,2246
+mining,2023,Mar,3907
+mining,2023,Apr,3660
+mining,2023,May,457
+mining,2023,Jun,3220
+mining,2023,Jul,1550
+mining,2023,Aug,4262
+mining,2023,Sep,3813
+mining,2023,Oct,723
+mining,2023,Nov,312
+mining,2023,Dec,619
+mining,2024,Jan,1440
+mining,2024,Feb,2363
+mining,2024,Mar,1533
+mining,2024,Apr,3713
+mining,2024,May,1795
+mining,2024,Jun,3578
+mining,2024,Jul,1208
+mining,2024,Aug,1879
+mining,2024,Sep,4648
+mining,2024,Oct,2466
+mining,2024,Nov,2676
+mining,2024,Dec,1821
+augmented reality,2023,Jan,1022
+augmented reality,2023,Feb,3670
+augmented reality,2023,Mar,4782
+augmented reality,2023,Apr,841
+augmented reality,2023,May,4345
+augmented reality,2023,Jun,4523
+augmented reality,2023,Jul,1562
+augmented reality,2023,Aug,4377
+augmented reality,2023,Sep,1517
+augmented reality,2023,Oct,4624
+augmented reality,2023,Nov,837
+augmented reality,2023,Dec,1128
+augmented reality,2024,Jan,2417
+augmented reality,2024,Feb,455
+augmented reality,2024,Mar,526
+augmented reality,2024,Apr,3591
+augmented reality,2024,May,3537
+augmented reality,2024,Jun,3907
+augmented reality,2024,Jul,1422
+augmented reality,2024,Aug,3585
+augmented reality,2024,Sep,3719
+augmented reality,2024,Oct,2144
+augmented reality,2024,Nov,4880
+augmented reality,2024,Dec,506
+chemicals and materials tech,2023,Jan,3307
+chemicals and materials tech,2023,Feb,4006
+chemicals and materials tech,2023,Mar,774
+chemicals and materials tech,2023,Apr,4985
+chemicals and materials tech,2023,May,4073
+chemicals and materials tech,2023,Jun,2800
+chemicals and materials tech,2023,Jul,761
+chemicals and materials tech,2023,Aug,1530
+chemicals and materials tech,2023,Sep,3256
+chemicals and materials tech,2023,Oct,1743
+chemicals and materials tech,2023,Nov,3040
+chemicals and materials tech,2023,Dec,2056
+chemicals and materials tech,2024,Jan,1937
+chemicals and materials tech,2024,Feb,610
+chemicals and materials tech,2024,Mar,1507
+chemicals and materials tech,2024,Apr,1642
+chemicals and materials tech,2024,May,306
+chemicals and materials tech,2024,Jun,1077
+chemicals and materials tech,2024,Jul,4147
+chemicals and materials tech,2024,Aug,4824
+chemicals and materials tech,2024,Sep,2480
+chemicals and materials tech,2024,Oct,2723
+chemicals and materials tech,2024,Nov,2061
+chemicals and materials tech,2024,Dec,4349
+metaverse,2023,Jan,2820
+metaverse,2023,Feb,510
+metaverse,2023,Mar,4227
+metaverse,2023,Apr,4610
+metaverse,2023,May,4610
+metaverse,2023,Jun,875
+metaverse,2023,Jul,3718
+metaverse,2023,Aug,212
+metaverse,2023,Sep,1575
+metaverse,2023,Oct,4980
+metaverse,2023,Nov,3997
+metaverse,2023,Dec,3237
+metaverse,2024,Jan,1808
+metaverse,2024,Feb,3010
+metaverse,2024,Mar,3518
+metaverse,2024,Apr,4917
+metaverse,2024,May,712
+metaverse,2024,Jun,1828
+metaverse,2024,Jul,4392
+metaverse,2024,Aug,1551
+metaverse,2024,Sep,4752
+metaverse,2024,Oct,3151
+metaverse,2024,Nov,951
+metaverse,2024,Dec,3701
+agriculture,2023,Jan,1942
+agriculture,2023,Feb,3810
+agriculture,2023,Mar,2722
+agriculture,2023,Apr,699
+agriculture,2023,May,3326
+agriculture,2023,Jun,823
+agriculture,2023,Jul,1591
+agriculture,2023,Aug,4768
+agriculture,2023,Sep,408
+agriculture,2023,Oct,3994
+agriculture,2023,Nov,3145
+agriculture,2023,Dec,293
+agriculture,2024,Jan,124
+agriculture,2024,Feb,404
+agriculture,2024,Mar,2627
+agriculture,2024,Apr,401
+agriculture,2024,May,970
+agriculture,2024,Jun,4244
+agriculture,2024,Jul,1144
+agriculture,2024,Aug,3972
+agriculture,2024,Sep,3483
+agriculture,2024,Oct,4348
+agriculture,2024,Nov,3790
+agriculture,2024,Dec,4262
+manufacturing,2023,Jan,1681
+manufacturing,2023,Feb,194
+manufacturing,2023,Mar,1875
+manufacturing,2023,Apr,1745
+manufacturing,2023,May,488
+manufacturing,2023,Jun,1258
+manufacturing,2023,Jul,3565
+manufacturing,2023,Aug,3597
+manufacturing,2023,Sep,3875
+manufacturing,2023,Oct,1125
+manufacturing,2023,Nov,407
+manufacturing,2023,Dec,1051
+manufacturing,2024,Jan,4953
+manufacturing,2024,Feb,2726
+manufacturing,2024,Mar,3888
+manufacturing,2024,Apr,585
+manufacturing,2024,May,2395
+manufacturing,2024,Jun,4165
+manufacturing,2024,Jul,4480
+manufacturing,2024,Aug,4841
+manufacturing,2024,Sep,1487
+manufacturing,2024,Oct,1560
+manufacturing,2024,Nov,2406
+manufacturing,2024,Dec,2750
+real estate tech,2023,Jan,4501
+real estate tech,2023,Feb,436
+real estate tech,2023,Mar,3358
+real estate tech,2023,Apr,2701
+real estate tech,2023,May,4866
+real estate tech,2023,Jun,2443
+real estate tech,2023,Jul,385
+real estate tech,2023,Aug,392
+real estate tech,2023,Sep,1582
+real estate tech,2023,Oct,253
+real estate tech,2023,Nov,1923
+real estate tech,2023,Dec,166
+real estate tech,2024,Jan,4630
+real estate tech,2024,Feb,4463
+real estate tech,2024,Mar,2919
+real estate tech,2024,Apr,4557
+real estate tech,2024,May,1813
+real estate tech,2024,Jun,143
+real estate tech,2024,Jul,3663
+real estate tech,2024,Aug,4806
+real estate tech,2024,Sep,3092
+real estate tech,2024,Oct,1929
+real estate tech,2024,Nov,317
+real estate tech,2024,Dec,2070
+hr tech,2023,Jan,1595
+hr tech,2023,Feb,2819
+hr tech,2023,Mar,4316
+hr tech,2023,Apr,615
+hr tech,2023,May,2984
+hr tech,2023,Jun,981
+hr tech,2023,Jul,1453
+hr tech,2023,Aug,564
+hr tech,2023,Sep,1835
+hr tech,2023,Oct,4366
+hr tech,2023,Nov,1294
+hr tech,2023,Dec,3098
+hr tech,2024,Jan,3129
+hr tech,2024,Feb,3568
+hr tech,2024,Mar,312
+hr tech,2024,Apr,691
+hr tech,2024,May,2268
+hr tech,2024,Jun,3858
+hr tech,2024,Jul,2220
+hr tech,2024,Aug,3316
+hr tech,2024,Sep,1281
+hr tech,2024,Oct,787
+hr tech,2024,Nov,1669
+hr tech,2024,Dec,847
+finance,2023,Jan,3779
+finance,2023,Feb,2990
+finance,2023,Mar,4631
+finance,2023,Apr,1764
+finance,2023,May,2360
+finance,2023,Jun,4624
+finance,2023,Jul,4955
+finance,2023,Aug,4408
+finance,2023,Sep,2290
+finance,2023,Oct,1739
+finance,2023,Nov,446
+finance,2023,Dec,264
+finance,2024,Jan,111
+finance,2024,Feb,4154
+finance,2024,Mar,494
+finance,2024,Apr,3242
+finance,2024,May,3881
+finance,2024,Jun,335
+finance,2024,Jul,441
+finance,2024,Aug,3149
+finance,2024,Sep,514
+finance,2024,Oct,476
+finance,2024,Nov,883
+finance,2024,Dec,3515
+chemicals & materials tech,2023,Jan,4061
+chemicals & materials tech,2023,Feb,956
+chemicals & materials tech,2023,Mar,543
+chemicals & materials tech,2023,Apr,531
+chemicals & materials tech,2023,May,1052
+chemicals & materials tech,2023,Jun,2977
+chemicals & materials tech,2023,Jul,2006
+chemicals & materials tech,2023,Aug,136
+chemicals & materials tech,2023,Sep,1556
+chemicals & materials tech,2023,Oct,2519
+chemicals & materials tech,2023,Nov,1808
+chemicals & materials tech,2023,Dec,237
+chemicals & materials tech,2024,Jan,4695
+chemicals & materials tech,2024,Feb,771
+chemicals & materials tech,2024,Mar,2130
+chemicals & materials tech,2024,Apr,460
+chemicals & materials tech,2024,May,1255
+chemicals & materials tech,2024,Jun,834
+chemicals & materials tech,2024,Jul,3218
+chemicals & materials tech,2024,Aug,2649
+chemicals & materials tech,2024,Sep,4436
+chemicals & materials tech,2024,Oct,4839
+chemicals & materials tech,2024,Nov,4673
+chemicals & materials tech,2024,Dec,1174
+consumer,2023,Jan,3382
+consumer,2023,Feb,4317
+consumer,2023,Mar,378
+consumer,2023,Apr,3305
+consumer,2023,May,3792
+consumer,2023,Jun,1100
+consumer,2023,Jul,905
+consumer,2023,Aug,2414
+consumer,2023,Sep,418
+consumer,2023,Oct,3569
+consumer,2023,Nov,853
+consumer,2023,Dec,3809
+consumer,2024,Jan,923
+consumer,2024,Feb,906
+consumer,2024,Mar,995
+consumer,2024,Apr,3178
+consumer,2024,May,3695
+consumer,2024,Jun,410
+consumer,2024,Jul,2067
+consumer,2024,Aug,3289
+consumer,2024,Sep,4399
+consumer,2024,Oct,512
+consumer,2024,Nov,740
+consumer,2024,Dec,3288
+govtech,2023,Jan,4749
+govtech,2023,Feb,642
+govtech,2023,Mar,930
+govtech,2023,Apr,4353
+govtech,2023,May,567
+govtech,2023,Jun,431
+govtech,2023,Jul,3942
+govtech,2023,Aug,1243
+govtech,2023,Sep,3986
+govtech,2023,Oct,4629
+govtech,2023,Nov,451
+govtech,2023,Dec,3461
+govtech,2024,Jan,2160
+govtech,2024,Feb,2224
+govtech,2024,Mar,3115
+govtech,2024,Apr,4149
+govtech,2024,May,156
+govtech,2024,Jun,3604
+govtech,2024,Jul,3369
+govtech,2024,Aug,4681
+govtech,2024,Sep,4655
+govtech,2024,Oct,4342
+govtech,2024,Nov,1277
+govtech,2024,Dec,410
+hrtech,2023,Jan,1256
+hrtech,2023,Feb,3845
+hrtech,2023,Mar,3863
+hrtech,2023,Apr,2529
+hrtech,2023,May,3450
+hrtech,2023,Jun,3214
+hrtech,2023,Jul,1041
+hrtech,2023,Aug,2215
+hrtech,2023,Sep,875
+hrtech,2023,Oct,4139
+hrtech,2023,Nov,3446
+hrtech,2023,Dec,861
+hrtech,2024,Jan,584
+hrtech,2024,Feb,4785
+hrtech,2024,Mar,629
+hrtech,2024,Apr,3016
+hrtech,2024,May,2855
+hrtech,2024,Jun,4206
+hrtech,2024,Jul,3010
+hrtech,2024,Aug,2174
+hrtech,2024,Sep,3618
+hrtech,2024,Oct,3488
+hrtech,2024,Nov,1246
+hrtech,2024,Dec,1095
+marketing & ad tech ,2023,Jan,897
+marketing & ad tech ,2023,Feb,3080
+marketing & ad tech ,2023,Mar,1407
+marketing & ad tech ,2023,Apr,921
+marketing & ad tech ,2023,May,3780
+marketing & ad tech ,2023,Jun,4899
+marketing & ad tech ,2023,Jul,533
+marketing & ad tech ,2023,Aug,4872
+marketing & ad tech ,2023,Sep,4918
+marketing & ad tech ,2023,Oct,4401
+marketing & ad tech ,2023,Nov,3129
+marketing & ad tech ,2023,Dec,3571
+marketing & ad tech ,2024,Jan,182
+marketing & ad tech ,2024,Feb,4992
+marketing & ad tech ,2024,Mar,2407
+marketing & ad tech ,2024,Apr,856
+marketing & ad tech ,2024,May,1188
+marketing & ad tech ,2024,Jun,2089
+marketing & ad tech ,2024,Jul,1627
+marketing & ad tech ,2024,Aug,4309
+marketing & ad tech ,2024,Sep,4506
+marketing & ad tech ,2024,Oct,3227
+marketing & ad tech ,2024,Nov,1816
+marketing & ad tech ,2024,Dec,521
+media,2023,Jan,4221
+media,2023,Feb,4069
+media,2023,Mar,1045
+media,2023,Apr,843
+media,2023,May,313
+media,2023,Jun,3240
+media,2023,Jul,3605
+media,2023,Aug,1499
+media,2023,Sep,3068
+media,2023,Oct,3811
+media,2023,Nov,2046
+media,2023,Dec,4703
+media,2024,Jan,2142
+media,2024,Feb,2899
+media,2024,Mar,216
+media,2024,Apr,637
+media,2024,May,2124
+media,2024,Jun,4993
+media,2024,Jul,4409
+media,2024,Aug,2868
+media,2024,Sep,4424
+media,2024,Oct,3039
+media,2024,Nov,2374
+media,2024,Dec,3547
